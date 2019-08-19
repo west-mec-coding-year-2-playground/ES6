@@ -1,2 +1,4 @@
 01_babel/dist
+01_babel/package.json
+01_babel/package-lock.json
 */*-teacher.js

@@ -1,3 +1,5 @@
+
+
 class User{
   register(){
     console.log('User Registered...');
@@ -11,3 +13,6 @@ const colors = [];
 // colors = 'Green';
 
 console.log(colors);
+
+
+doSomthing("Hello World")

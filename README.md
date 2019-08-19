@@ -1,7 +1,13 @@
 # ES6
  ES6+, Babel, OOP & Design Patterns
 
+# Can I use?
+Lets [check the web](https://caniuse.com/#search=es6) to see which methods can currently be used in the browser.
+
+
+
 - [ES6](#es6)
+- [Can I use?](#can-i-use)
 - [Unit Objectives](#unit-objectives)
 - [Tech Standards](#tech-standards)
   - [Sub-Unit 1 - Advanced Javascript](#sub-unit-1---advanced-javascript)
