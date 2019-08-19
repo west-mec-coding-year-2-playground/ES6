@@ -8,10 +8,10 @@ const testVar = () => {
     if (true) {
         let a = 50;
         console.log(a);
+        a = 30;
     }
     console.log(`other A: ${a}`);
 }
-
 
 console.log(`Logged ${a}`);
 
