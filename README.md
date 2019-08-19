@@ -5,9 +5,10 @@
 Lets [check the web](https://caniuse.com/#search=es6) to see which methods can currently be used in the browser.
 
 
-
+# Table of Contents
 - [ES6](#es6)
 - [Can I use?](#can-i-use)
+- [Table of Contents](#table-of-contents)
 - [Unit Objectives](#unit-objectives)
 - [Tech Standards](#tech-standards)
   - [Sub-Unit 1 - Advanced Javascript](#sub-unit-1---advanced-javascript)
