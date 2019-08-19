@@ -7,12 +7,11 @@ class User{
 }
 const colors = [];
 
-// colors.push('red');
-// colors.push('blue');
+colors.push('red');
+colors.push('blue');
 
 // colors = 'Green';
 
 console.log(colors);
 
 
-doSomthing("Hello World")
