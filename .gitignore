@@ -1,8 +1,10 @@
 # Hide unfinished content
+/sub-unit-1/Exercise Files
 sub-unit-2/
 /sub-unit-3/*
 /sub-unit-2/Exercise Files/
 /sub-unit-2/Exercise Files/*/*/end
+
 # Logs
 logs
 *.log
