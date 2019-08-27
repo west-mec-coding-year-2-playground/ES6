@@ -9,7 +9,7 @@ const testVar = (params) => {
     console.log(`Function logged: ${a}`);
     if(true){
         var a = 50;
-        console.log(`Block logged: `${a});
+        console.log(`Block logged: ${a}`);
     }
     console.log("Here:"+a);
 }
